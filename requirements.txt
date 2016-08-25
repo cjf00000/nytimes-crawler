@@ -1,0 +1,5 @@
+nytimesarticle
+beautifulsoup4
+nltk
+# install mongodb
+# nltk.download()
